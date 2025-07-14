@@ -71,7 +71,7 @@
 ## 🧠 Автор
 
 **Артём (aka ArsenTech)**  
-✈️ Будущий пилот • 👨‍💻 IoT-энтузиаст • 🇰🇿 Atyrau, Kazakhstan
+Разработчик • 👨‍💻 IoT-энтузиаст • 🇰🇿 Atyrau, Kazakhstan
 
 ---
 
